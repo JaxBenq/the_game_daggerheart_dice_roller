@@ -1,0 +1,17 @@
+# Elixir / Mix
+_build/
+deps/
+*.ez
+*.beam
+
+# Phoenix
+assets/node_modules/
+priv/static/assets/
+
+# OS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+
